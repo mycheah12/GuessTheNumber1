@@ -1,6 +1,3 @@
-# GuessTheNumber1
-A number guessing game 
-
 # Guess the Number Game
 
 Welcome to the "Guess the Number" game! This simple Python-based game challenges your guessing skills as you try to identify the hidden number. It's a fun and engaging project for both beginners and experienced programmers.
